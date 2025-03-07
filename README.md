@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I am a Full Stack Developer<br>🧭 I am based out of Berlin, Germany <br>🏢 My current projects are my own portfolio site and commissions for others<br>🛠️ I also develop Rust cheats on the side
+🚀 I am a Full Stack Developer<br>🧭 I am based out of Kansas City, Missouri <br>🏢 My current projects are my own portfolio site and commissions for others<br>🛠️ I also develop Rust cheats on the side
 
 
 # 💻 Tech Stack:
